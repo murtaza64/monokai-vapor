@@ -2,7 +2,7 @@
     "name": "monokai-vapor",
     "displayName": "Monokai Vapor",
     "description": "Monokai based theme inspired by vaporwave aesthetics",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "repository": "https://github.com/murtaza64/monokai-vapor.git",
     "icon": "vaporwavekb.png",
     "engines": {
