@@ -1,0 +1,21 @@
+{
+    "name": "monokai-vapor",
+    "displayName": "monokai-vapor",
+    "description": "Monokai based theme inspired by vaporwave aesthetics",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Vapor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-vapor-color-theme.json"
+            }
+        ]
+    }
+}
