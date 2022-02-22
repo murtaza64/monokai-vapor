@@ -1,6 +1,6 @@
 {
     "name": "monokai-vapor",
-    "displayName": "monokai-vapor",
+    "displayName": "Monokai Vapor",
     "description": "Monokai based theme inspired by vaporwave aesthetics",
     "version": "0.0.1",
     "engines": {
@@ -17,5 +17,7 @@
                 "path": "./themes/monokai-vapor-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/murtaza64/monokai-vapor",
+    "publisher": "murtaza64"
 }
