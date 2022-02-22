@@ -3,6 +3,8 @@
     "displayName": "Monokai Vapor",
     "description": "Monokai based theme inspired by vaporwave aesthetics",
     "version": "0.0.2",
+    "repository": "https://github.com/murtaza64/monokai-vapor.git",
+    "icon": "vaporwavekb.png",
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -18,6 +20,5 @@
             }
         ]
     },
-    "repository": "https://github.com/murtaza64/monokai-vapor",
     "publisher": "murtaza64"
 }
