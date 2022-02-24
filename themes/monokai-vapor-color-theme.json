@@ -35,7 +35,6 @@
 		{
 			"scope": "meta.function-call.generic",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FFDEFD"
 			}
 		},
@@ -43,13 +42,13 @@
 			"scope": "support.function.magic",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#CCFF67"
+				"foreground": "#e0ffa1"
 			}
 		},
 		{
-			"scope": "variable.language.special, variable.parameter.function.language.special, support.variable.magic",
+			"scope": "variable.language.special.self, variable.parameter.function.language.special.self, support.variable.magic",
 			"settings": {
-				"foreground": "#aaa"
+				"foreground": "#dbf9ff"
 			}
 		},
 		// {
@@ -73,19 +72,19 @@
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#CCFF67"
+				"foreground": "#e0ffa1"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#CCFF67"
+				"foreground": "#e0ffa1"
 			}
 		},
 		{
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#CCFF67"
+				"foreground": "#e0ffa1"
 			}
 		},
 		{
