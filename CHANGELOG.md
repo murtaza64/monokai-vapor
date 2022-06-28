@@ -4,10 +4,10 @@ All notable changes to the "monokai-vapor" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
-- Initial release
-
-## [0.2.0]
+## [0.3.0]
 
 - Add support for Python semantic highlighting of `match` and `case`
+
+## [0.4.0]
+
+- Update colors (using semantic highlighting)
