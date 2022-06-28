@@ -137,7 +137,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FFA764",
+				"foreground": "#ffc583",
 				"fontStyle": "italic"
 			}
 		},
@@ -442,10 +442,37 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": "entity.name.function.decorator",
+			"settings": {
+				"foreground": "#FF9FA2"
+			}
+		},
+		{
+			"scope": "meta.class.inheritance.python",
+			"settings": {
+				"fontStyle": ""
+			}
 		}
 	],
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-	  "keyword.control": "#FF9FA2"
+	  "keyword": "#FF9FA2",
+	  "variable": "#ffffff",
+	  "property": "#FFFFFF",
+	  
+	  "parameter": {"foreground": "#ffc583", "italic": true},
+
+	  "class": {"foreground": "#B6F3FF", "italic": false},
+	  "class.declaration": {"underline": true},
+	  "module": "#FFFFFF",
+	  
+	  "function": "#FFDEFD",
+	  "function.declaration": "#FFC4FA",
+	  "method": "#FFDEFD",
+	  "method.declaration": "#FFC4FA",
+	  "selfParameter": "#dbf9ff",
+	  "magicFunction": {"foreground": "#FFC4FA", "italic": true},
 	}
 }
