@@ -443,5 +443,9 @@
 				"foreground": "#B267E6"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+	  "keyword.control": "#FF9FA2"
+	}
 }
