@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.4.0]
 
 - Update colors (using semantic highlighting)
+
+## [0.4.1]
+
+- Change `variable.readonly` to green (constant)

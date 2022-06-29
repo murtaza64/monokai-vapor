@@ -460,6 +460,7 @@
 	"semanticTokenColors": {
 	  "keyword": "#FF9FA2",
 	  "variable": "#ffffff",
+	  "variable.readonly": "#e0ffa1",
 	  "property": "#FFFFFF",
 	  
 	  "parameter": {"foreground": "#ffc583", "italic": true},
