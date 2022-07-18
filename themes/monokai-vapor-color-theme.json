@@ -465,6 +465,8 @@
 	  "parameter": {"foreground": "#ffc583", "italic": true},
 
 	  "class": {"foreground": "#B6F3FF", "italic": false},
+	  "type": {"foreground": "#B6F3FF", "italic": true},
+	  "interface": {"foreground": "#dbf9ff", "italic": true},
 	  "class.declaration": {"underline": true},
 	  "module": "#FFFFFF",
 	  

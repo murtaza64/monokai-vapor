@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Remove rules for `meta.class`
 - Add rules for semantic "enum" and "enumMember"
+
+## [0.4.3]
+
+- Recolor `interface`
