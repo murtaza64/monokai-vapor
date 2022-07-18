@@ -15,3 +15,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.4.1]
 
 - Change `variable.readonly` to green (constant)
+
+## [0.4.2]
+
+- Remove rules for `meta.class`
+- Add rules for semantic "enum" and "enumMember"

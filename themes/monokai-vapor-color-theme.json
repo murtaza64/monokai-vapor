@@ -20,8 +20,6 @@
 		{
 			"scope": "meta.class",
 			"settings": {
-				"foreground": "#FFADF8",
-				"fontStyle": "underline"
 			}
 		},
 		{
@@ -46,7 +44,7 @@
 			}
 		},
 		{
-			"scope": "variable.language.special.self, variable.parameter.function.language.special.self, support.variable.magic",
+			"scope": "variable.language.special.self, variable.parameter.function.language.special.self, support.variable.magic, variable.language.this",
 			"settings": {
 				"foreground": "#dbf9ff"
 			}
@@ -462,7 +460,8 @@
 	  "variable": "#ffffff",
 	  "variable.readonly": "#e0ffa1",
 	  "property": "#FFFFFF",
-	  
+	  "enum": "#B6F3FF",
+	  "enumMember": "#e0ffa1",
 	  "parameter": {"foreground": "#ffc583", "italic": true},
 
 	  "class": {"foreground": "#B6F3FF", "italic": false},
